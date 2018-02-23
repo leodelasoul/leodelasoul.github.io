@@ -4,13 +4,52 @@
  <title>leodelasoul.github.io</title>
  <link href="http://leodelasoul.github.io/atom.xml" rel="self"/>
  <link href="http://leodelasoul.github.io"/>
- <updated>2018-02-19T18:06:23+01:00</updated>
+ <updated>2018-02-23T18:28:43+01:00</updated>
  <id>http://leodelasoul.github.io</id>
  <author>
    <name>Leonid Ricker</name>
    <email>l.ricker93@web.de</email>
  </author>
 
+ 
+ <entry>
+   <title>Things That I Liked This Month</title>
+   <link href="http://leodelasoul.github.io/2018/02/23/Things-that-i-liked-this-month"/>
+   <updated>2018-02-23T00:00:00+01:00</updated>
+   <id>http://leodelasoul.github.io/2018/02/23/Things-that-i-liked-this-month</id>
+   <content type="html">&lt;h3 id=&quot;music&quot;&gt;Music:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;The past releases from &lt;strong&gt;MGMT&lt;/strong&gt; after their huge success in 2007 with Oracular Spectacular their followed outcomes are off the mainstream which I highly favor&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tyler the Creator&lt;/strong&gt;: Flower Boy&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am ill!</title>
+   <link href="http://leodelasoul.github.io/2018/02/18/i-am-ill"/>
+   <updated>2018-02-18T00:00:00+01:00</updated>
+   <id>http://leodelasoul.github.io/2018/02/18/i-am-ill</id>
+   <content type="html">&lt;h3 id=&quot;oops-it-hit-me&quot;&gt;Oops it hit me&lt;/h3&gt;
+
+&lt;p&gt;Yep, as the title may convey I got sick and had to stay in the bed and rest with a fever.&lt;/p&gt;
+
+&lt;p&gt;In js Terminology it would be something like that.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;import leobody;
+
+var leo = leobody.beingSick();
+while(leo){
+  if (!leo.sleep()) {
+      leo.eat();
+      leo.drinks();
+      leo.sleep();
+  }
+  leo.awake();  
+}
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+ </entry>
  
  <entry>
    <title>About jekyll posting</title>

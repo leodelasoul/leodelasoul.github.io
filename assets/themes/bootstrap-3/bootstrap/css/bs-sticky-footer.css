@@ -27,3 +27,11 @@ body {
   line-height: 30px;
   margin-bottom: 0px;
 }
+svg path {
+    fill: #421572;
+}
+#footer span{
+    float: right;
+}
+
+}

@@ -1,6 +1,7 @@
-
-document.getElementByClass('navbar-form navbar-right').addEventListener ('submit', function() {
-    document.location.href = '/browse/' + document.getElementById('mySearch').value;
-    console.log(yolo);
+function search() {
+    document.location.href = document.getElementById('mySearch').value;
     return false;
-});
+};
+
+
+document.getElementsByClassName('navbar-form navbar-right')[0].addEventListener('submit', search);

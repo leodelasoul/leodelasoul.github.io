@@ -1,12 +1,16 @@
 img{
 
-  width:auto;
-  height:auto;
-  max-width:50%;
-  max-height:50%;
-  float: right;
+  border-radius: 50%;
 }
 
 .col-xs-4{
   padding: 2em;
+      margin: 0 auto;
+}
+
+
+@media (max-width: 370px) {
+  .col-xs-4{
+    bottom: -50%;
+  }
 }
